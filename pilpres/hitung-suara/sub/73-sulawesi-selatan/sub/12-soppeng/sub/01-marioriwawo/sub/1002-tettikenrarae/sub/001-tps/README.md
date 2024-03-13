@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 69
+    bar [68, 69, 5]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 68
+    "2" : 69
+    "3" : 5
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 68    | [68][p-1]   | 47,89      |
+| 2   | PRABOWO GIBRAN | 69    | [69][p-2]   | 48,59      |
+| 3   | GANJAR MAHFUD  | 5     | [5][p-3]    | 3,52       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/12-soppeng/sub/01-marioriwawo/sub/1002-tettikenrarae/sub/001-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/12-soppeng/sub/01-marioriwawo/sub/1002-tettikenrarae/sub/001-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/12-soppeng/sub/01-marioriwawo/sub/1002-tettikenrarae/sub/001-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/a21c/pemilu/ppwp/73/12/01/10/02/7312011002001-20240214-215109--919f05d5-56c0-403f-b45a-38a99392b104.jpg
+
+https://sirekap-obj-formc.kpu.go.id/a21c/pemilu/ppwp/73/12/01/10/02/7312011002001-20240215-052740--c295ccd7-2847-4b4e-877e-9c8c3c4ee8b0.jpg
+
+https://sirekap-obj-formc.kpu.go.id/a21c/pemilu/ppwp/73/12/01/10/02/7312011002001-20240214-215428--bda3fcae-3197-467a-a1fd-ac58c9732339.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 20:30:46 |
+
+
+

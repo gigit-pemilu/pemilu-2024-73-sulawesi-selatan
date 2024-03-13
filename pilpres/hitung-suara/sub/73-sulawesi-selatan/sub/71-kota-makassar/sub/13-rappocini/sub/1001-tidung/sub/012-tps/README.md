@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 118
+    bar [81, 118, 7]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 81
+    "2" : 118
+    "3" : 7
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 81    | [81][p-1]   | 39,32      |
+| 2   | PRABOWO GIBRAN | 118   | [118][p-2]  | 57,28      |
+| 3   | GANJAR MAHFUD  | 7     | [7][p-3]    | 3,40       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/71-kota-makassar/sub/13-rappocini/sub/1001-tidung/sub/012-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/71-kota-makassar/sub/13-rappocini/sub/1001-tidung/sub/012-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/71-kota-makassar/sub/13-rappocini/sub/1001-tidung/sub/012-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/83dd/pemilu/ppwp/73/71/13/10/01/7371131001012-20240215-080858--f269a3d3-8cf5-4964-9803-6868fb052597.jpg
+
+https://sirekap-obj-formc.kpu.go.id/83dd/pemilu/ppwp/73/71/13/10/01/7371131001012-20240215-081035--a9dacc78-ffbf-4656-ba29-8f5f46d74d38.jpg
+
+https://sirekap-obj-formc.kpu.go.id/83dd/pemilu/ppwp/73/71/13/10/01/7371131001012-20240215-081244--67ad0e01-aaa8-459d-b2f7-1ab58c36274d.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-16 16:25:10 |
+
+
+

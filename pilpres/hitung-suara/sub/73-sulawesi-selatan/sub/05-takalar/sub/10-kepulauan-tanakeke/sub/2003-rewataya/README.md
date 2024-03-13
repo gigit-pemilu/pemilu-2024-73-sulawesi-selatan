@@ -1,0 +1,10 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-73-sulawesi-selatan/tree/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/05-takalar/sub/10-kepulauan-tanakeke/sub/2003-rewataya/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-73-sulawesi-selatan/tree/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/05-takalar/sub/10-kepulauan-tanakeke/sub/2003-rewataya/sub/002-tps)
+ | 
+[TPS 003](https://github.com/gigit-pemilu/pemilu-2024-73-sulawesi-selatan/tree/main/pilpres/hitung-suara/sub/73-sulawesi-selatan/sub/05-takalar/sub/10-kepulauan-tanakeke/sub/2003-rewataya/sub/003-tps)
+
